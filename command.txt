@@ -1,0 +1,4 @@
+#install jenkins
+
+sudo systemctl daemon-reload
+sudo systemctl start jenkins
